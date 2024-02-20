@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My Skills 👨🏻‍💻</h3>
+<h2 align="center">My Skills 👨🏻‍💻</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">You can reach me at 👇</h3>
+<h2 align="center">You can reach me at 👇</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="center">My status 📈</h3>
+<h2 align="center">My status 📈</h2>
 
 ###
 
@@ -53,11 +53,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DaviBicudoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviBicudoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DaviBicudoo/DaviBicudoo/output/snake.svg" alt="Snake animation" />
 
 ###

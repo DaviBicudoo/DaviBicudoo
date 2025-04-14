@@ -1,8 +1,8 @@
-# 👨‍💻 Davi Bicudo
+# 🙋🏻‍♂️ Daviyee
 
-**`Full Stack Developer (.NET/Web/Mobile)`**
+**`Technology enthusiast (. ❛ ᴗ ❛.)`**
 
-I'm a passionate developer focused on building robust applications that solve real-world problems. I specialize in .NET and web technologies, crafting solutions from the ground up - from initial planning and architecture to deployment and maintenance. My expertise spans both backend systems and user-friendly frontends, with a particular focus on the Microsoft ecosystem.
+I'm a passionate developer dedicated to building robust applications that solve real-world problems. I specialize in .NET technologies, crafting comprehensive solutions from initial planning and architecture through to deployment and maintenance. My expertise is primarily in backend systems, with a particular focus on the Microsoft ecosystem. Additionally, I'm an enthusiast of Arduino technology and continuously explore new possibilities for implementing this versatile tool in innovative projects. I'm committed to expanding my knowledge of Arduino's capabilities and integrating it into practical applications.
 
 <p align="left">
    <a href="https://github.com/DaviBicudoo?tab=followers">
@@ -16,13 +16,13 @@ I'm a passionate developer focused on building robust applications that solve re
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -43,7 +43,8 @@ I'm a passionate developer focused on building robust applications that solve re
 - Building scalable .NET applications
 - Exploring .NET MAUI for cross-platform mobile development
 - Enhancing database performance and optimization
-- Implementing modern web UI with responsive design
+- Implementing modern UI with responsive design
+- Working on Arduino projects and electronics theory
 
 #
 
@@ -60,6 +61,5 @@ I'm a passionate developer focused on building robust applications that solve re
 
 ### 📫 Connect With Me
 
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** daviyeestudando@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/davi-bicudo](https://linkedin.com/in/davi-bicudo)
-- 🌐 **Portfolio:** Coming soon

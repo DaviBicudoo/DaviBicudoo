@@ -33,9 +33,8 @@ I'm a passionate developer focused on building robust applications that solve re
 
 ### 💻 Featured Projects
 
-[![MAUI-Movies-App](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=MauiAppMyShopping&theme=dark)](https://github.com/DaviBicudoo/MauiAppMyShopping)
-[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=WeatherMauiApp&theme=dark)](https://github.com/DaviBicudoo/WeatherMauiApp)
-[![Calculadora-IMC](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=WebApplicationMVC&theme=dark)](https://github.com/DaviBicudoo/WebApplicationMVC)
+[![My Wishlist](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=MauiAppMyShopping&theme=dark)](https://github.com/DaviBicudoo/MauiAppMyShopping)
+[![Weather Maui App](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=WeatherMauiApp&theme=dark)](https://github.com/DaviBicudoo/WeatherMauiApp)
 
 #
 

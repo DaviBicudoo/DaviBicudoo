@@ -1,57 +1,66 @@
-<h2 align="left">Hi 🤙! My name is Davi and I'm a student from ETEC Joaquim Ferreira do Amaral!</h2>
+# 👨‍💻 Davi Bicudo
 
-###
+**`Full Stack Developer (.NET/Web/Mobile)`**
 
-<h2 align="center">My Skills 👨🏻‍💻</h2>
+I'm a passionate developer focused on building robust applications that solve real-world problems. I specialize in .NET and web technologies, crafting solutions from the ground up - from initial planning and architecture to deployment and maintenance. My expertise spans both backend systems and user-friendly frontends, with a particular focus on the Microsoft ecosystem.
 
-###
+<p align="left">
+   <a href="https://github.com/DaviBicudoo?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DaviBicudoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/DaviBicudoo?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DaviBicudoo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="35" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-</div>
+### 🧰 Languages and Tools
 
-###
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
-<h2 align="center">You can reach me at 👇</h2>
+#
 
-###
+### 💻 Featured Projects
 
-<br clear="both">
+[![MAUI-Movies-App](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=MauiAppMyShopping&theme=dark)](https://github.com/DaviBicudoo/MauiAppMyShopping)
+[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=WeatherMauiApp&theme=dark)](https://github.com/DaviBicudoo/WeatherMauiApp)
+[![Calculadora-IMC](https://github-readme-stats.vercel.app/api/pin/?username=DaviBicudoo&repo=WebApplicationMVC&theme=dark)](https://github.com/DaviBicudoo/WebApplicationMVC)
 
-<div align="center">
-  <a href="davibicudok" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="daviyee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="daviyeestudando@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/davi-silva-a521052b4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+#
 
-###
+### 🚀 Current Focus
 
-<h2 align="center">My status 📈</h2>
+- Building scalable .NET applications
+- Exploring .NET MAUI for cross-platform mobile development
+- Enhancing database performance and optimization
+- Implementing modern web UI with responsive design
 
-###
+#
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviBicudoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviBicudoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<details>
+ <summary><h3>🧩 My Development Journey</h3></summary>
+   My passion for programming began with web development, where I learned the fundamentals of HTML, CSS, and JavaScript. As I grew as a developer, I discovered the power of C# and the .NET ecosystem, which has since become my primary focus.
 
-###
+   I've worked on a variety of projects, from mobile applications using .NET MAUI to web applications with PHP and Bootstrap. Each project has been an opportunity to solve unique problems and expand my technical skillset.
+
+   I believe in clean, maintainable code and am constantly learning new technologies and methodologies to improve my craft. My goal is to create software that not only works efficiently but also provides an excellent user experience.
+</details>
+
+---
+
+### 📫 Connect With Me
+
+- 📧 **Email:** your.email@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/davi-bicudo](https://linkedin.com/in/davi-bicudo)
+- 🌐 **Portfolio:** Coming soon
